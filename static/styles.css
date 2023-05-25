@@ -1,0 +1,17 @@
+body
+{background-color: rgb(248, 232, 87)
+}
+h1 {
+    font-weight: bold;
+    color:rgb(43, 124, 216);
+    background-color: rgb(248, 232, 87);
+    font-size: x-large   
+ }
+
+
+.books {
+     
+    color:rgb(56, 24, 172);
+    background-color: rgb(248, 232, 87);
+    font-size: x-large
+}
